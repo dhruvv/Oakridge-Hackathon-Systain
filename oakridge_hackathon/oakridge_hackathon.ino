@@ -5,7 +5,7 @@ void setup() {
 
 void loop() {
   int value = analogRead(A0);
-  float volatage = (value/1024);
+  float voltage = (value/1024);
   Serial.println(voltage);
   delay(500);
 
