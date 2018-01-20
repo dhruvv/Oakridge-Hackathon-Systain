@@ -4,8 +4,9 @@ import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.TileOverlayOptions;
 import com.google.maps.android.heatmaps.HeatmapTileProvider;
 import com.google.maps.android.heatmaps.WeightedLatLng;
-
 import java.util.ArrayList;
+
+
 
 public class HeatMapActivity extends BaseMapActivity {
 
